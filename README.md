@@ -1,2 +1,3 @@
 # covid-19-data-analysis
-Projeto da disciplina de Ciência de Dados
+Projeto da disciplina de Introdução a Ciência de Dados do Centro de Informática da UFPE
+Ministrada pelo professor Luciano Barboza
